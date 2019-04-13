@@ -1,0 +1,31 @@
+{
+  "name": "w_cli",
+  "version": "1.0.0",
+  "description": "基于node开发的脚手架",
+  "main": "index.js",
+  "bin": {
+    "w_cli": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "download-git-repo": "^1.1.0",
+    "inquirer": "^6.2.2",
+    "ora": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/only-twj520Q/w_cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/only-twj520Q/w_cli/issues"
+  },
+  "homepage": "https://github.com/only-twj520Q/w_cli#readme"
+}
